@@ -1,0 +1,21 @@
+.board {
+    width: 75%;
+    height: 60%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button {
+    width: 33.3%;
+    height: 33.3%;
+    background-color: white;
+    border: 0px;
+}
+
+.right {
+    border-right: 1px solid black;
+}
+
+.bottom {
+    border-bottom: 1px solid black;
+}
